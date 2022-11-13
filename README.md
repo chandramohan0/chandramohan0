@@ -33,13 +33,3 @@
 ![pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-# GitHub Stats
-
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-    <thead>
-        <tr>
-            <td><img src="https://github-readme-stats.vercel.app/api?username=aparna2071&show_icons=true&locale=en&theme=tokyonight" alt="Aparna's GitHub Stats" />               </td>
-            <td><img src="https://streak-stats.demolab.com/?user=aparna2071&theme=tokyonight" alt="Aparna's GitHub Stats" /></td>
-        </tr>
-    </thead>
-</table>
