@@ -1,7 +1,6 @@
-#Hi there 👋
+## Hi there 👋
 
-
-##About
+## About
 - 🔭 I’m currently working as a Software Development  Engineer at Strato-IT.
 - 🌱 I’m a full stack MERN developer.
 - 👯 I graduated in 2022 from Gurukula Kangri (Deemed to be University), Haridwar(B.Tech,CSE) with a CGPA of 8.71.
