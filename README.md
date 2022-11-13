@@ -1,4 +1,4 @@
-#Hi there 👋
+Hi there 👋
 
 - 🔭 I’m currently working as a Software Development  Engineer at Strato-IT.
 - 🌱 I’m a full stack MERN developer.
