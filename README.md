@@ -1,12 +1,11 @@
-# Hi there 👋
-
+<h1 align="center">Hi there 👋 I am Chandra Mohan</h1>
 </p>
 <img align="right" alt="Coding" src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" data-canonical-src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="width:420px ; height:300px ; border-radius: 25px; display: inline-block;" data-target="animated-image.originalImage">
 
 ## About Me ❤❤
-- 🔭 I’m currently working as a Software Development  Engineer at Strato-IT.
+- 🔭 I’m currently working as a **Software Development Engineer** at **Strato-IT**.
 - 🌱 I’m a full stack MERN developer.
-- 👯 I graduated in 2022 from Gurukula Kangri (Deemed to be University), Haridwar(B.Tech,CSE) with a CGPA of 8.71.
+- 👯 I graduated in 2022 from **Gurukula Kangri (Deemed to be University)**, Haridwar **(B.Tech,CSE)** with a CGPA of **8.71**.
 - 🤔 I’m currently learning Java & SpringBoot.
 - 💬 Ask me about web dev & open source
 - 😄 Pronouns: He/His
