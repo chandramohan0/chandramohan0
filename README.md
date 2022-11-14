@@ -36,6 +36,29 @@
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
 
+<h2 align="center">My Contribution Streak !! :fire:</h2>
+
+<p align="center">
+    <a>
+   <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/left.png">
+    <a href="https://streak-stats.demolab.com?user=chandramohan0">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Chandra Mohan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=chandramohan0&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+   <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/right.png">
+    </a>
+</p>
+
+## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/chandramohan0/github-readme-stats"><img alt="Chandra Mohan Github Stats" src="https://github-readme-stats.vercel.app/api?username=chandramohan0&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    
+  <a href="https://github.com/chandramohan0/github-readme-stats"><img alt="Chandra Mohan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandramohan0&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+  <br/>
+<br/>
+    
 ## Contact Me
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MrZeroOrez)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandramohan01/)
