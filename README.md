@@ -36,14 +36,12 @@
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
 
-<h2 align="center">My Contribution Streak !! :fire:</h2>
+<h2 align="left">My Contribution Streak !! :fire:</h2>
 
-<p align="center">
+<p align="left">
     <a>
-   <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/left.png">
     <a href="https://streak-stats.demolab.com?user=chandramohan0">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Chandra Mohan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=chandramohan0&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-   <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/right.png">
     </a>
 </p>
 
