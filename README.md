@@ -5,10 +5,10 @@
 
 
 ## About Me ❤❤
-- 🔭 I’m currently working as a **Software Engineer** at **Strato-IT**.
-- 🌱 I’m a full stack MERN developer.
+- 🔭 I’m currently working as a **Software Engineer** at **SuccessNumbers LLC**.
+- 🌱 I’m a full stack Java developer.
+- 🤔 I have experience in Core Java, Python, C++, and JavaScript, along with expertise in backend frameworks like Spring Boot and Microservices architecture. My technical skill set also includes proficiency in data structures and algorithms, database management (SQL and NoSQL), RESTful web services, and DevOps practices such as Docker, Kubernetes, and CI/CD pipelines.
 - 👯 I graduated in 2022 from **Gurukula Kangri (Deemed to be University)**, Haridwar **(B.Tech,CSE)** with a CGPA of **8.71**.
-- 🤔 I’m currently learning Java & SpringBoot.
 - 💬 Ask me about web dev & open source
 - 😄 Pronouns: He/His
 - ⚡ Fun fact/Interest: Listening songs, Watching movies & Cricket, Playing Chess
